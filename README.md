@@ -1,7 +1,6 @@
-Opa, tranquilo ? Me chamo Lucas
+Lucas Silva Maciel 
 
-- 🌱 Eu estou estudando atualmente: HTML,CSS, Java Script e React Js
-- 🎨 Me siga no instagram: @lxcasmaciel
+Desenvolvedor Front-end: html, css, javascript, react.
 
 <div>
   <a href="https://github.com/lxcasmaciel">
